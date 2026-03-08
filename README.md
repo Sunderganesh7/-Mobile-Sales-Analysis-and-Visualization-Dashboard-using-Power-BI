@@ -1,117 +1,111 @@
 # -Mobile-Sales-Analysis-and-Visualization-Dashboard-using-Power-BI
 
-Mobile Sales Analysis Dashboard (Power BI)
-Project Overview
 
-This project presents a Mobile Sales Analysis Dashboard developed using Microsoft Power BI. The dashboard analyzes mobile phone sales data and provides insights into sales performance, customer ratings, payment methods, and regional sales distribution.
+
+# Mobile Sales Analysis Dashboard (Power BI)
+
+## Project Overview
+
+This project presents a **Mobile Sales Analysis Dashboard** developed using **Microsoft Power BI**. The dashboard analyzes mobile phone sales data and provides insights into sales performance, customer ratings, payment methods, and regional sales distribution.
 
 The goal of this project is to transform raw sales data into meaningful visual insights that help businesses understand sales trends and customer behavior.
 
-Dashboard Features
+---
 
-Total Sales, Quantity Sold, and Transactions overview
+## Dashboard Features
 
-City-wise sales distribution using map visualization
+* Total Sales, Quantity Sold, and Transactions overview
+* City-wise sales distribution using map visualization
+* Monthly sales trend analysis
+* Customer ratings distribution
+* Payment method analysis (UPI, Debit Card, Credit Card, Cash)
+* Brand-wise and model-wise sales comparison
+* Interactive filters for:
 
-Monthly sales trend analysis
+  * Mobile Model
+  * Payment Method
+  * Brand
+  * Day Name
+  * Month
 
-Customer ratings distribution
+---
 
-Payment method analysis (UPI, Debit Card, Credit Card, Cash)
+## Tools & Technologies Used
 
-Brand-wise and model-wise sales comparison
+* **Microsoft Power BI Desktop**
+* **DAX (Data Analysis Expressions)**
+* **Power Query**
+* **Microsoft Excel / CSV Dataset**
+* **GitHub (Project Hosting)**
 
-Interactive filters for:
+---
 
-Mobile Model
-
-Payment Method
-
-Brand
-
-Day Name
-
-Month
-
-Tools & Technologies Used
-
-Microsoft Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
-Power Query
-
-Microsoft Excel / CSV Dataset
-
-GitHub (Project Hosting)
-
-Dataset
+## Dataset
 
 The dataset used in this project includes the following fields:
 
-Mobile Model
-
-Brand
-
-Sales Amount
-
-Quantity Sold
-
-Payment Method
-
-Customer Ratings
-
-City
-
-Day Name
-
-Date / Month
+* Mobile Model
+* Brand
+* Sales Amount
+* Quantity Sold
+* Payment Method
+* Customer Ratings
+* City
+* Day Name
+* Date / Month
 
 The dataset is included in this repository.
 
-Dashboard Preview
+---
 
-(Upload your dashboard screenshot and replace the file name if needed.)
+## Dashboard Preview
 
-Key Insights
 
-Identifies the top-selling mobile brands and models
+![Dashboard png](https://github.com/user-attachments/assets/002cd0e5-8faf-40d8-920a-d9ec054f658b)
 
-Shows monthly sales trends
 
-Analyzes customer rating distribution
 
-Highlights preferred payment methods
+---
 
-Displays city-wise sales performance
+## Key Insights
 
-How to Use
+* Identifies the **top-selling mobile brands and models**
+* Shows **monthly sales trends**
+* Analyzes **customer rating distribution**
+* Highlights **preferred payment methods**
+* Displays **city-wise sales performance**
 
-Download the .pbix file from this repository.
+---
 
-Open it using Power BI Desktop.
+## How to Use
 
-Explore the interactive dashboard using filters and slicers.
+1. Download the `.pbix` file from this repository.
+2. Open it using **Power BI Desktop**.
+3. Explore the interactive dashboard using filters and slicers.
 
-Project Files
+---
 
-Mobile_Sales_Dashboard.pbix – Power BI dashboard file
+## Project Files
 
-dataset.csv / excel – Raw sales dataset
+* `Mobile_Sales_Dashboard.pbix` – Power BI dashboard file
+* `dataset.csv / excel` – Raw sales dataset
+* `README.md` – Project documentation
 
-README.md – Project documentation
+---
 
-Future Improvements
+## Future Improvements
 
-Add real-time data integration
+* Add real-time data integration
+* Implement predictive sales analysis
+* Add profit and cost analysis
+* Deploy dashboard on Power BI Service
 
-Implement predictive sales analysis
+---
 
-Add profit and cost analysis
+## Author
 
-Deploy dashboard on Power BI Service
-
-Author
-
-Sunderganesh
+**Sunderganesh**
 IT Engineering Student | Data Analytics Enthusiast
+
+
+If you want, I can also give you a **very powerful GitHub README version (with badges, icons, and professional formatting)** that makes your project look **like a real data analyst portfolio project.**
