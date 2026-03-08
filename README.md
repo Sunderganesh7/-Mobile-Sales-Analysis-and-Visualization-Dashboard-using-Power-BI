@@ -102,10 +102,6 @@ The dataset is included in this repository.
 
 ---
 
-## Author
-
-**Sunderganesh**
-IT Engineering Student | Data Analytics Enthusiast
 
 
 If you want, I can also give you a **very powerful GitHub README version (with badges, icons, and professional formatting)** that makes your project look **like a real data analyst portfolio project.**
